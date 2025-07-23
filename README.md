@@ -1,1 +1,1 @@
-# Hospital-Dashboard-Project
+# Healthcare-Dashboard-Project
